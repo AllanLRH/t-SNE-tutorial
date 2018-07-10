@@ -1,3 +1,6 @@
+This markdown is turned into a notebook, so that the document is executeable.
+Minor modifications have been made to make the code run with Scikit-Learn 0.19.1.
+
 # An illustrated introduction to the t-SNE algorithm
 
 In the Big Data era, data is not only becoming bigger and bigger; it is also becoming more and more complex. This translates into a spectacular increase of the dimensionality of the data. For example, the dimensionality of a set of images is the number of pixels in any image, which ranges from thousands to millions.
